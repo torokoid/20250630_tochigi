@@ -259,8 +259,11 @@ p.note { display: none; }
 <a href="20250630_078.JPG" target="_blank"><img src="20250630_078.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250630_079.JPG" target="_blank"><img src="20250630_079.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">一般参加のセリが始まりました、競り落とし価格はびっくり価格でした</span></h2>
+<h2><span class="yellow">一般参加のセリが始まりました、競り落とし価格はびっくり価格</span></h2>
 <a href="20250630_080.JPG" target="_blank"><img src="20250630_080.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">セリの様子が動画で撮れてます</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x1S0iaty_j4?si=-UUP5cDI4xHa3ltT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <h2><span class="yellow">SUGOサーキットに出店している知人のつてでサーキットに入りました</span></h2>
 <a href="20250630_081.JPG" target="_blank"><img src="20250630_081.JPG" alt="サンプル画像" width="900" /></a>
